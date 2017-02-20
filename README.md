@@ -17,10 +17,10 @@ To train and test:
     
 Parameter description:
 
-trainingfile: Path of the training set in libsvm format
-lambda: Regularization Term
-sigma: Kernel Parameter
-iterations: Number of iterations
-outputfile: log file
-numfeatures: Number of variables of the dataset
-testingfile: Path of the test set in libsvm format
+ - trainingfile: Path of the training set in libsvm format
+ - lambda: Regularization Term
+ - sigma: Kernel Parameter
+ - iterations: Number of iterations
+ - outputfile: log file
+ - numfeatures: Number of variables of the dataset
+ - testingfile: Path of the test set in libsvm format
