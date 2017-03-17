@@ -87,7 +87,9 @@ object TestKernelSVM {
          var s1 = "Training time: "+runtime.toString+"\n"
          pw.write(s1)
 
-         val results = svm.getAccuracyAndAUC2(testdata.collect(),sc)
+         //val results = svm.getAccuracyAndAUC2(testdata.collect(),sc)
+
+         val results = svm.getAccuracyAndAUC3(testdata,sc)
          var s0 = "Testing time: "+results._3.toString+"\n"
          pw.write(s0)
          println("Accuracy: "+results._1.toString)
