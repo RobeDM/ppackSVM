@@ -126,7 +126,7 @@ class KernelSVM(training_data:RDD[LabeledPoint], lambda_s: Double, kernel : Stri
   def predict2 (data: LabeledPoint, localModel:Array[(LabeledPoint, Double)]): Double = {
 
     var i = localModel(1)
-    var result = 0.0
+    var result = 0
     for (i <- localModel){
         result += i._2 * i._1.label * kernel_func.evaluate(data.features, i._1.features)
     }

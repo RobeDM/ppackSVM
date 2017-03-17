@@ -60,7 +60,7 @@ object TestKernelSVM {
           svm.train(num_iter,pack_size)
           val t2 = System.currentTimeMillis
           val runtime = (t2 - t1)/1000
-          val results = svm.getAccuracyAndAUC2(testRDD.collect(),sc)
+          val results = svm.getAccuracyAndAUC(testRDD.collect(),sc)
           var ss = "Training time: " + runtime.toString + " Accuracy: " + results._1.toString+ " AUC: " + results._2.toString + "\n"
           meanAcc = meanAcc + results._1
           meanAUC = meanAUC + results._2
@@ -87,7 +87,7 @@ object TestKernelSVM {
          var s1 = "Training time: "+runtime.toString+"\n"
          pw.write(s1)
 
-         val results = svm.getAccuracyAndAUC2(testdata.collect(),sc)
+         val results = svm.getAccuracyAndAUC(testdata.collect(),sc)
          var s0 = "Testing time: "+results._3.toString+"\n"
          pw.write(s0)
          println("Accuracy: "+results._1.toString)

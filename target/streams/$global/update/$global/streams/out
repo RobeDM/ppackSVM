@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for ppackubuntu#ppackubuntu_2.11;1.0 [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies ppackubuntu#ppackubuntu_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.8 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33c3b92a[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62cd09af[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.8 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.11.8] org.scala-lang#scala-library;2.11.8[0m
@@ -28,7 +28,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-core_2.11;2.0.2!spark-core_2.11.pom(pom.original) (95ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-core_2.11;2.0.2!spark-core_2.11.pom(pom.original) (74ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
@@ -42,7 +42,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-parent_2.11/2.0.2/spark-parent_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-parent_2.11/2.0.2/spark-parent_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-parent_2.11/2.0.2/spark-parent_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-parent_2.11;2.0.2!spark-parent_2.11.pom(pom.original) (143ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-parent_2.11;2.0.2!spark-parent_2.11.pom(pom.original) (275ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;14 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;14 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache#apache;14[0m
@@ -2012,7 +2012,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-launcher_2.11/2.0.2/spark-launcher_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-launcher_2.11/2.0.2/spark-launcher_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-launcher_2.11/2.0.2/spark-launcher_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-launcher_2.11;2.0.2!spark-launcher_2.11.pom(pom.original) (87ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-launcher_2.11;2.0.2!spark-launcher_2.11.pom(pom.original) (45ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -2032,7 +2032,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-tags_2.11/2.0.2/spark-tags_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-tags_2.11/2.0.2/spark-tags_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-tags_2.11/2.0.2/spark-tags_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-tags_2.11;2.0.2!spark-tags_2.11.pom(pom.original) (145ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-tags_2.11;2.0.2!spark-tags_2.11.pom(pom.original) (32ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -2040,7 +2040,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-launcher_2.11;2.0.2->org.apache.spark#spark-tags_2.11;2.0.2 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-tags_2.11;2.0.2->org.scalatest#scalatest_2.11;2.2.6 [compile->master(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scalatest#scalatest_2.11;2.2.6 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2734bcd7[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@132d056a[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.6[0m
 [0m[[0mdebug[0m] [0m	found org.scalatest#scalatest_2.11;2.2.6 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-tags_2.11;2.0.2->org.scalatest#scalatest_2.11;2.2.6 [compile->compile(*)][0m
@@ -2117,7 +2117,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.11/2.0.2/spark-network-common_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.11/2.0.2/spark-network-common_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.11/2.0.2/spark-network-common_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-network-common_2.11;2.0.2!spark-network-common_2.11.pom(pom.original) (53ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-network-common_2.11;2.0.2!spark-network-common_2.11.pom(pom.original) (35ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -2200,7 +2200,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.11/2.0.2/spark-network-shuffle_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.11/2.0.2/spark-network-shuffle_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.11/2.0.2/spark-network-shuffle_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-network-shuffle_2.11;2.0.2!spark-network-shuffle_2.11.pom(pom.original) (69ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-network-shuffle_2.11;2.0.2!spark-network-shuffle_2.11.pom(pom.original) (35ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -2234,7 +2234,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-unsafe_2.11/2.0.2/spark-unsafe_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-unsafe_2.11/2.0.2/spark-unsafe_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-unsafe_2.11/2.0.2/spark-unsafe_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-unsafe_2.11;2.0.2!spark-unsafe_2.11.pom(pom.original) (126ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-unsafe_2.11;2.0.2!spark-unsafe_2.11.pom(pom.original) (42ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -3209,7 +3209,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.11/2.0.2/spark-mllib_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.11/2.0.2/spark-mllib_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.11/2.0.2/spark-mllib_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-mllib_2.11;2.0.2!spark-mllib_2.11.pom(pom.original) (93ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-mllib_2.11;2.0.2!spark-mllib_2.11.pom(pom.original) (60ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -3222,9 +3222,9 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-mllib_2.11;2.0.2->org.apache.spark#spark-core_2.11;2.0.2 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-mllib_2.11;2.0.2->org.apache.spark#spark-streaming_2.11;2.0.2 [compile->master(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-streaming_2.11;2.0.2 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@517a956d[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30495403[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-streaming_2.11;2.0.2 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@517a956d[0m
+[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@30495403[0m
 [0m[[0mdebug[0m] [0m		tried /home/operador/.ivy2/local/org.apache.spark/spark-streaming_2.11/2.0.2/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.spark#spark-streaming_2.11;2.0.2[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.0.2/spark-streaming_2.11-2.0.2.pom[0m
@@ -3234,7 +3234,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.0.2/spark-streaming_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.0.2/spark-streaming_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.0.2/spark-streaming_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-streaming_2.11;2.0.2!spark-streaming_2.11.pom(pom.original) (64ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-streaming_2.11;2.0.2!spark-streaming_2.11.pom(pom.original) (39ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -3272,7 +3272,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.0.2/spark-sql_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.0.2/spark-sql_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.0.2/spark-sql_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-sql_2.11;2.0.2!spark-sql_2.11.pom(pom.original) (54ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-sql_2.11;2.0.2!spark-sql_2.11.pom(pom.original) (44ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -3298,7 +3298,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-sketch_2.11/2.0.2/spark-sketch_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-sketch_2.11/2.0.2/spark-sketch_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-sketch_2.11/2.0.2/spark-sketch_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-sketch_2.11;2.0.2!spark-sketch_2.11.pom(pom.original) (64ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-sketch_2.11;2.0.2!spark-sketch_2.11.pom(pom.original) (46ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -3312,9 +3312,9 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-sql_2.11;2.0.2->org.apache.spark#spark-core_2.11;2.0.2 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-sql_2.11;2.0.2->org.apache.spark#spark-catalyst_2.11;2.0.2 [compile->master(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-catalyst_2.11;2.0.2 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e057aa3[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a28941c[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-catalyst_2.11;2.0.2 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@6e057aa3[0m
+[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@4a28941c[0m
 [0m[[0mdebug[0m] [0m		tried /home/operador/.ivy2/local/org.apache.spark/spark-catalyst_2.11/2.0.2/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.spark#spark-catalyst_2.11;2.0.2[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.0.2/spark-catalyst_2.11-2.0.2.pom[0m
@@ -3324,7 +3324,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.0.2/spark-catalyst_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.0.2/spark-catalyst_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.0.2/spark-catalyst_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-catalyst_2.11;2.0.2!spark-catalyst_2.11.pom(pom.original) (59ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-catalyst_2.11;2.0.2!spark-catalyst_2.11.pom(pom.original) (94ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -3356,20 +3356,20 @@
 [0m[[0mdebug[0m] [0m	found org.codehaus.janino#janino;2.7.8 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->master(compile)][0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@62e0c1d2[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@7d97b94d[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@6fb985a3[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@5350f519[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@77c7ca97[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@54f0dd51[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@5c12eb[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@65649fc0[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@2c3e7289[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@1edda675[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@5f06b0f1[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@f33ba2[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@4f8ae5ce[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@3c170c44[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@6c84861e[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@25c805b9[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@2d34ee87[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@72f796d1[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@5f8b75d2[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@5541e872[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@1bcead15[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@7b7210e9[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@7f53dfb0[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@4b431df1[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@205da928[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@41125ccc[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@3933b794[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@6a4c89d6[0m
 [0m[[0minfo[0m] [0mResolving org.codehaus.janino#commons-compiler;2.7.8 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.codehaus.janino#commons-compiler;2.7.8 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.codehaus.janino#commons-compiler;2.7.8[0m
@@ -3552,7 +3552,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.11/2.0.2/spark-graphx_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.11/2.0.2/spark-graphx_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.11/2.0.2/spark-graphx_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-graphx_2.11;2.0.2!spark-graphx_2.11.pom(pom.original) (210ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-graphx_2.11;2.0.2!spark-graphx_2.11.pom(pom.original) (111ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -3598,9 +3598,9 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-graphx_2.11;2.0.2->org.spark-project.spark#unused;1.0.0 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-mllib_2.11;2.0.2->org.apache.spark#spark-mllib-local_2.11;2.0.2 [compile->master(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-mllib-local_2.11;2.0.2 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@688223d9[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65ef24ee[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-mllib-local_2.11;2.0.2 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@688223d9[0m
+[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@65ef24ee[0m
 [0m[[0mdebug[0m] [0m		tried /home/operador/.ivy2/local/org.apache.spark/spark-mllib-local_2.11/2.0.2/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.spark#spark-mllib-local_2.11;2.0.2[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/spark/spark-mllib-local_2.11/2.0.2/spark-mllib-local_2.11-2.0.2.pom[0m
@@ -3610,7 +3610,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-mllib-local_2.11/2.0.2/spark-mllib-local_2.11-2.0.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/spark/spark-mllib-local_2.11/2.0.2/spark-mllib-local_2.11-2.0.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/spark/spark-mllib-local_2.11/2.0.2/spark-mllib-local_2.11-2.0.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-mllib-local_2.11;2.0.2!spark-mllib-local_2.11.pom(pom.original) (111ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.spark#spark-mllib-local_2.11;2.0.2!spark-mllib-local_2.11.pom(pom.original) (702ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.spark#spark-parent_2.11;2.0.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.spark#spark-parent_2.11;2.0.2 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.spark#spark-parent_2.11;2.0.2[0m
@@ -6513,20 +6513,20 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->master(compile)][0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@3f8b3a0c[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@6373ad79[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@14f84156[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@3e2b9db3[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@58168b20[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@26f0ed3e[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@7054ea47[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@127027fb[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@7e53f11e[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@5f6b6af7[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@8bab58f[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@1be6149c[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@7a5cddff[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@7e642c91[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@2fbab234[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@5cb440b4[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@95b1c3d[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@6f0807af[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@15d93368[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@6b967087[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@3afd333c[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@15e76eb3[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@49f94d14[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@11330ee4[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@4204bb2d[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@6c38d728[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@6faab656[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@6667c169[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.antlr#antlr4-runtime;4.5.3 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.antlr#antlr4-runtime;4.5.3 [compile->compile(*)][0m
@@ -9533,20 +9533,20 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->master(compile)][0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@11ff8116[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@4d1cc285[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@1fe7ea97[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@6fdfcb21[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@2c500fd[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@29e6f2ca[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@9f50633[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@18e242ef[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@328a7be6[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@2c64afdf[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@d01e0fe[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@77e2e8b[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@664a20c9[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@6fd97188[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@d96b5c2[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@75b3295b[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@68da0bd8[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@72a8f61d[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@4a28652f[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@263d74c0[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@1e813f14[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@2bac3ac7[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@22242380[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@6f72d870[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@781c3315[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@322c44d3[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@31975935[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@48dfa62f[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.antlr#antlr4-runtime;4.5.3 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.antlr#antlr4-runtime;4.5.3 [compile->compile(*)][0m
@@ -12602,20 +12602,20 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->master(compile)][0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@492df75[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@65a9beea[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@54802cb6[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@296fe9f2[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@3b94e2dd[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@136255ab[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@46d23eed[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@10247fbc[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@c3af56f[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@d74264e[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@5a06545b[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@69ec1938[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@322608e7[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@1ecc1ebb[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@372c3d6c[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@96b43d6[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@66134d04[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@24df26b6[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@724eb81c[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@21e83070[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@5d6f3224[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@5845a9[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@7d183e6[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@675a48dc[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@4380a801[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@1b7d8d5[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@a72a5b6[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@3fdb108c[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.antlr#antlr4-runtime;4.5.3 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.antlr#antlr4-runtime;4.5.3 [compile->compile(*)][0m
@@ -15624,20 +15624,20 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->master(compile)][0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@39361a6a[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@45fc5ec1[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@6cbc3530[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@18d888e[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@8e1379f[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@2f4c6a14[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@2254df78[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@4f70fa44[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@4e2c61fa[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@2fcbee1[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@6571ed9[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@4e3d768d[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@6333ed01[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@45f5c30[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@424be6bd[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@2365ba55[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@5293009c[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@1d68978d[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@8bf493[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@e3251c5[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@44ef277f[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@1de20490[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@429254d3[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@5eb2893d[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@635b894b[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@6e10c734[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@3e7422e9[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@7445af7b[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.antlr#antlr4-runtime;4.5.3 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.antlr#antlr4-runtime;4.5.3 [compile->compile(*)][0m
@@ -18646,20 +18646,20 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.codehaus.janino#janino;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->master(compile)][0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@54eca198[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@7cf38bd4[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@2be6dc0f[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@c560065 => sbt.ivyint.MergedDescriptors@498e1cb0[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@785f9478[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@18921d8c[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@509bc35[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@3c5b5bb8[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@37da50f0 => sbt.ivyint.MergedDescriptors@3823e41f[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@30d5e0ea[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@78f50ad1[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@1e1518ec[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@3931042d[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7ef6280a => sbt.ivyint.MergedDescriptors@26fc6151[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@3874ffa5[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@1d821ce8[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@652eb07f[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cd46911 => sbt.ivyint.MergedDescriptors@34f93c52[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@2b6f74bf[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@26075866[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@36baa991[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@4bdc08b8[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@3a0b5ae7 => sbt.ivyint.MergedDescriptors@1bc657f0[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@79ef886[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@640b3fc5[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@4fb97234[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@66e9c5e4[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@258baa50 => sbt.ivyint.MergedDescriptors@16c34b77[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.codehaus.janino#janino;2.7.8->org.codehaus.janino#commons-compiler;2.7.8 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.antlr#antlr4-runtime;4.5.3 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.spark#spark-catalyst_2.11;2.0.2->org.antlr#antlr4-runtime;4.5.3 [compile->compile(*)][0m
@@ -19272,7 +19272,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 19816ms :: artifacts dl 1508ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 8636ms :: artifacts dl 100ms[0m
 [0m[[0mdebug[0m] [0m	report for ppackubuntu#ppackubuntu_2.11;1.0 compile produced in /home/operador/Dropbox/Doctorado/PaperSPARK/pruebasppack/ppackSVM/target/resolution-cache/reports/ppackubuntu-ppackubuntu_2.11-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for ppackubuntu#ppackubuntu_2.11;1.0 runtime produced in /home/operador/Dropbox/Doctorado/PaperSPARK/pruebasppack/ppackSVM/target/resolution-cache/reports/ppackubuntu-ppackubuntu_2.11-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for ppackubuntu#ppackubuntu_2.11;1.0 test produced in /home/operador/Dropbox/Doctorado/PaperSPARK/pruebasppack/ppackSVM/target/resolution-cache/reports/ppackubuntu-ppackubuntu_2.11-test.xml[0m
@@ -19286,5 +19286,5 @@
 [0m[[0mdebug[0m] [0m	report for ppackubuntu#ppackubuntu_2.11;1.0 docs produced in /home/operador/Dropbox/Doctorado/PaperSPARK/pruebasppack/ppackSVM/target/resolution-cache/reports/ppackubuntu-ppackubuntu_2.11-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for ppackubuntu#ppackubuntu_2.11;1.0 pom produced in /home/operador/Dropbox/Doctorado/PaperSPARK/pruebasppack/ppackSVM/target/resolution-cache/reports/ppackubuntu-ppackubuntu_2.11-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for ppackubuntu#ppackubuntu_2.11;1.0 scala-tool produced in /home/operador/Dropbox/Doctorado/PaperSPARK/pruebasppack/ppackSVM/target/resolution-cache/reports/ppackubuntu-ppackubuntu_2.11-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (19816ms resolve - 1508ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (8636ms resolve - 100ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
